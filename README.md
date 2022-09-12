@@ -17,5 +17,5 @@ The executable file should be run on a windows x64 or window x86 platform.
    Those 2 folders should be in the same directory.
 
 # 3. License
-The project(including the answers to the questions, **excluding the folder of "C-string"** which is provied by SCES-SHU) is based on **APACHE LICENSE VERSION 2.0**.
-If you have better opinions or questions to any part of the project, you can pull a request or mail me at [jamesnulliu@outlook.com](jamesnulliu@outlook.com).
+The project(including the answers to the questions, **excluding the folder of "C-string"** which is provied by SCES-SHU) is based on **APACHE LICENSE VERSION 2.0**.  
+If you have better opinions or questions to any part of the project, you can pull a request or mail me at jamesnulliu@outlook.com.
